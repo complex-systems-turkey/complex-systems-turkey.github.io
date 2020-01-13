@@ -25,6 +25,6 @@ All participants are expected to attend the full workshop. If you are not able t
 
 **Participants are limited to 10-15 people.**
 
-**Winter school is free.**
+**Participation to the winter school is free of charge.**
 
 {% include btn-apply.html %}

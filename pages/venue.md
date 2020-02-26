@@ -4,4 +4,4 @@ title: Venue
 permalink: /venue/
 ---
 
-The event will take place at Room 522, [Kadir Has Campus (Cibali)](https://khas.edu.tr/en/about-us-university/contact-us).
+The lectures will take place at B522 and the exercise sessions will take place at B-Lab1, [Kadir Has Cibali Campus](https://khas.edu.tr/en/about-us-university/contact-us).

@@ -2,6 +2,13 @@
     margin-left: 0px;
     margin-right: 0px;
 }
+
+.lll{
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 /* navbar */
 .hillhacks-nav{
     background-color: $nav-background-color;
@@ -304,6 +311,10 @@ a.footnote {
 }
 a.reversefootnote {
   text-decoration: none !important;
+}
+
+a {
+    text-decoration: none !important;
 }
 
 /* base styles */
